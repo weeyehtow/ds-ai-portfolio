@@ -1,0 +1,1257 @@
+,year,sex,course,intake,enrolment,graduates,IHL_type
+0,2009,F,Applied & Health Sciences,710,1369,593,ITE
+1,2009,F,Business & Services,2799,4188,2435,ITE
+2,2009,F,Design & Media,268,418,142,ITE
+3,2009,F,Electronics & Infocomm Technology,1037,1905,772,ITE
+4,2009,F,Engineering,500,964,369,ITE
+5,2009,MF,Applied & Health Sciences,1156,2172,944,ITE
+6,2009,MF,Business & Services,4076,6316,3429,ITE
+7,2009,MF,Design & Media,541,895,308,ITE
+8,2009,MF,Electronics & Infocomm Technology,3811,7226,2855,ITE
+9,2009,MF,Engineering,4121,8237,3463,ITE
+10,2010,F,Applied & Health Sciences,680,1336,637,ITE
+11,2010,F,Business & Services,2754,4138,2474,ITE
+12,2010,F,Design & Media,320,548,181,ITE
+13,2010,F,Electronics & Infocomm Technology,972,1866,830,ITE
+14,2010,F,Engineering,522,968,366,ITE
+15,2010,MF,Applied & Health Sciences,1138,2198,987,ITE
+16,2010,MF,Business & Services,4098,6321,3591,ITE
+17,2010,MF,Design & Media,611,1094,420,ITE
+18,2010,MF,Electronics & Infocomm Technology,3892,7285,3157,ITE
+19,2010,MF,Engineering,4147,7891,3179,ITE
+20,2011,F,Applied & Health Sciences,847,1560,591,ITE
+21,2011,F,Business & Services,2681,4060,2300,ITE
+22,2011,F,Design & Media,322,609,245,ITE
+23,2011,F,Electronics & Infocomm Technology,1019,1861,804,ITE
+24,2011,F,Engineering,615,1068,386,ITE
+25,2011,F,Hospitality,322,609,245,ITE
+26,2011,MF,Applied & Health Sciences,1293,2447,940,ITE
+27,2011,MF,Business & Services,4232,6462,3509,ITE
+28,2011,MF,Design & Media,603,1156,507,ITE
+29,2011,MF,Electronics & Infocomm Technology,3748,7217,3081,ITE
+30,2011,MF,Engineering,4222,7997,3128,ITE
+31,2011,MF,Hospitality,603,1156,507,ITE
+32,2012,F,Applied & Health Sciences,769,1553,702,ITE
+33,2012,F,Business & Services,2372,3623,2024,ITE
+34,2012,F,Design & Media,288,580,284,ITE
+35,2012,F,Electronics & Infocomm Technology,945,1820,793,ITE
+36,2012,F,Engineering,519,1023,448,ITE
+37,2012,F,Hospitality,251,486,174,ITE
+38,2012,MF,Applied & Health Sciences,1261,2469,1097,ITE
+39,2012,MF,Business & Services,3839,5885,3065,ITE
+40,2012,MF,Design & Media,604,1157,534,ITE
+41,2012,MF,Electronics & Infocomm Technology,3462,6810,3130,ITE
+42,2012,MF,Engineering,4229,8078,3352,ITE
+43,2012,MF,Hospitality,511,971,352,ITE
+44,2013,F,Applied & Health Sciences,750,1470,683,ITE
+45,2013,F,Business & Services,2468,3919,2183,ITE
+46,2013,F,Design & Media,386,633,229,ITE
+47,2013,F,Electronics & Infocomm Technology,941,1859,848,ITE
+48,2013,F,Engineering,621,1030,411,ITE
+49,2013,F,Hospitality,293,517,226,ITE
+50,2013,MF,Applied & Health Sciences,1219,2346,1058,ITE
+51,2013,MF,Business & Services,3916,6257,3387,ITE
+52,2013,MF,Design & Media,811,1291,471,ITE
+53,2013,MF,Electronics & Infocomm Technology,3533,6883,3085,ITE
+54,2013,MF,Engineering,4413,8503,3420,ITE
+55,2013,MF,Hospitality,540,1008,467,ITE
+56,2014,F,Applied & Health Sciences,701,1631,645,ITE
+57,2014,F,Business & Services,2547,4173,1545,ITE
+58,2014,F,Design & Media,462,751,318,ITE
+59,2014,F,Electronics & Infocomm Technology,948,1860,734,ITE
+60,2014,F,Engineering,633,1218,400,ITE
+61,2014,F,Hospitality,283,616,241,ITE
+62,2014,MF,Applied & Health Sciences,1154,2597,1037,ITE
+63,2014,MF,Business & Services,4006,6682,2469,ITE
+64,2014,MF,Design & Media,879,1494,639,ITE
+65,2014,MF,Electronics & Infocomm Technology,3506,7033,2881,ITE
+66,2014,MF,Engineering,4560,9064,3574,ITE
+67,2014,MF,Hospitality,536,1166,462,ITE
+68,2015,F,Applied & Health Sciences,733,1594,815,ITE
+69,2015,F,Business & Services,2184,5048,2223,ITE
+70,2015,F,Design & Media,466,798,355,ITE
+71,2015,F,Electronics & Infocomm Technology,891,1873,868,ITE
+72,2015,F,Engineering,623,1287,554,ITE
+73,2015,F,Hospitality,307,667,325,ITE
+74,2015,MF,Applied & Health Sciences,1173,2523,1274,ITE
+75,2015,MF,Business & Services,3633,8010,3528,ITE
+76,2015,MF,Design & Media,933,1565,705,ITE
+77,2015,MF,Electronics & Infocomm Technology,3383,6927,3266,ITE
+78,2015,MF,Engineering,4486,9045,3966,ITE
+79,2015,MF,Hospitality,565,1225,612,ITE
+80,2016,F,Applied & Health Sciences,740,1427,632,ITE
+81,2016,F,Business & Services,2591,4594,2334,ITE
+82,2016,F,Design & Media,479,921,373,ITE
+83,2016,F,Electronics & Infocomm Technology,859,1638,764,ITE
+84,2016,F,Engineering,647,1164,469,ITE
+85,2016,F,Hospitality,319,602,291,ITE
+86,2016,MF,Applied & Health Sciences,1234,2322,988,ITE
+87,2016,MF,Business & Services,4152,7411,3654,ITE
+88,2016,MF,Design & Media,965,1851,735,ITE
+89,2016,MF,Electronics & Infocomm Technology,3318,6324,2858,ITE
+90,2016,MF,Engineering,4488,8483,3753,ITE
+91,2016,MF,Hospitality,606,1128,528,ITE
+92,2017,F,Applied & Health Sciences,850,1558,643,ITE
+93,2017,F,Business & Services,2680,4836,2172,ITE
+94,2017,F,Design & Media,486,921,440,ITE
+95,2017,F,Electronics & Infocomm Technology,925,1692,746,ITE
+96,2017,F,Engineering,676,1228,530,ITE
+97,2017,F,Hospitality,298,569,277,ITE
+98,2017,MF,Applied & Health Sciences,1342,2537,1059,ITE
+99,2017,MF,Business & Services,4344,7797,3496,ITE
+100,2017,MF,Design & Media,967,1862,889,ITE
+101,2017,MF,Electronics & Infocomm Technology,3570,6531,3100,ITE
+102,2017,MF,Engineering,4685,8643,3805,ITE
+103,2017,MF,Hospitality,598,1138,509,ITE
+104,2018,F,Applied & Health Sciences,806,1602,737,ITE
+105,2018,F,Business & Services,2507,4732,2221,ITE
+106,2018,F,Design & Media,481,912,420,ITE
+107,2018,F,Electronics & Infocomm Technology,850,1632,832,ITE
+108,2018,F,Engineering,628,1198,559,ITE
+109,2018,F,Hospitality,357,631,257,ITE
+110,2018,MF,Applied & Health Sciences,1259,2503,1163,ITE
+111,2018,MF,Business & Services,4125,7762,3608,ITE
+112,2018,MF,Design & Media,927,1815,876,ITE
+113,2018,MF,Electronics & Infocomm Technology,3321,6432,3241,ITE
+114,2018,MF,Engineering,4524,8639,3992,ITE
+115,2018,MF,Hospitality,663,1216,541,ITE
+116,2019,F,Applied & Health Sciences,822,1565,701,ITE
+117,2019,F,Business & Services,2575,4623,2285,ITE
+118,2019,F,Design & Media,590,1024,405,ITE
+119,2019,F,Electronics & Infocomm Technology,837,1564,714,ITE
+120,2019,F,Engineering,714,1225,502,ITE
+121,2019,F,Hospitality,370,657,323,ITE
+122,2019,MF,Applied & Health Sciences,1305,2458,1039,ITE
+123,2019,MF,Business & Services,4138,7545,3631,ITE
+124,2019,MF,Design & Media,1051,1902,804,ITE
+125,2019,MF,Electronics & Infocomm Technology,3380,6265,2821,ITE
+126,2019,MF,Engineering,4585,8552,3731,ITE
+127,2019,MF,Hospitality,688,1246,569,ITE
+128,2020,F,Applied & Health Sciences,855,1603,700,ITE
+129,2020,F,Business & Services,2401,4544,2266,ITE
+130,2020,F,Design & Media,532,1080,471,ITE
+131,2020,F,Electronics & Infocomm Technology,820,1543,710,ITE
+132,2020,F,Engineering,716,1305,552,ITE
+133,2020,F,Hospitality,392,695,328,ITE
+134,2020,MF,Applied & Health Sciences,1296,2500,1127,ITE
+135,2020,MF,Business & Services,3831,7295,3659,ITE
+136,2020,MF,Design & Media,1010,1991,850,ITE
+137,2020,MF,Electronics & Infocomm Technology,3309,6245,2948,ITE
+138,2020,MF,Engineering,4502,8500,3953,ITE
+139,2020,MF,Hospitality,713,1294,607,ITE
+140,2021,F,Applied & Health Sciences,878,1683,722,ITE
+141,2021,F,Business & Services,2445,4536,2237,ITE
+142,2021,F,Design & Media,604,1112,501,ITE
+143,2021,F,Electronics & Infocomm Technology,848,1543,724,ITE
+144,2021,F,Engineering,734,1368,633,ITE
+145,2021,F,Hospitality,396,715,356,ITE
+146,2021,MF,Applied & Health Sciences,1335,2549,1105,ITE
+147,2021,MF,Business & Services,3903,7260,3519,ITE
+148,2021,MF,Design & Media,1009,1966,912,ITE
+149,2021,MF,Electronics & Infocomm Technology,3313,6235,3022,ITE
+150,2021,MF,Engineering,4464,8550,4023,ITE
+151,2021,MF,Hospitality,714,1302,643,ITE
+152,2022,F,Applied & Health Sciences,934,1770,789,ITE
+153,2022,F,Business & Services,2316,4376,2183,ITE
+154,2022,F,Design & Media,586,1152,529,ITE
+155,2022,F,Electronics & Infocomm Technology,768,1510,742,ITE
+156,2022,F,Engineering,828,1472,593,ITE
+157,2022,F,Hospitality,382,696,370,ITE
+158,2022,MF,Applied & Health Sciences,1341,2605,1185,ITE
+159,2022,MF,Business & Services,3804,7118,3522,ITE
+160,2022,MF,Design & Media,1016,1962,927,ITE
+161,2022,MF,Electronics & Infocomm Technology,3438,6333,2995,ITE
+162,2022,MF,Engineering,4321,8300,4050,ITE
+163,2022,MF,Hospitality,657,1252,653,ITE
+164,2023,F,Applied & Health Sciences,878,1718,787,ITE
+165,2023,F,Business & Services,2208,4168,1912,ITE
+166,2023,F,Design & Media,591,1142,534,ITE
+167,2023,F,Electronics & Infocomm Technology,816,1510,416,ITE
+168,2023,F,Engineering,855,1563,699,ITE
+169,2023,F,Hospitality,381,676,332,ITE
+170,2023,MF,Applied & Health Sciences,1293,2501,1131,ITE
+171,2023,MF,Business & Services,3664,6944,2970,ITE
+172,2023,MF,Design & Media,1007,1957,901,ITE
+173,2023,MF,Electronics & Infocomm Technology,3500,6628,1677,ITE
+174,2023,MF,Engineering,4269,8050,3768,ITE
+175,2023,MF,Hospitality,672,1194,602,ITE
+176,2024,F,Applied & Health Sciences,545,1046,484,ITE
+177,2024,F,Business & Services,1988,4082,1935,ITE
+178,2024,F,Design & Media,607,1160,524,ITE
+179,2024,F,Electronics & Infocomm Technology,650,1635,692,ITE
+180,2024,F,Engineering,1419,2457,998,ITE
+181,2024,F,Hospitality,380,697,337,ITE
+182,2024,MF,Applied & Health Sciences,731,1409,657,ITE
+183,2024,MF,Business & Services,3417,7072,3241,ITE
+184,2024,MF,Design & Media,996,1934,903,ITE
+185,2024,MF,Electronics & Infocomm Technology,2795,7317,3114,ITE
+186,2024,MF,Engineering,4880,9147,4198,ITE
+187,2024,MF,Hospitality,654,1217,573,ITE
+188,2005,F,Applied Arts,687,1538,302,Polytechnic
+189,2005,F,"Architecture, Building & Real Estate",312,870,249,Polytechnic
+190,2005,F,Business & Administration,2389,7038,2270,Polytechnic
+191,2005,F,Education,180,469,111,Polytechnic
+192,2005,F,Engineering Sciences,2097,5939,2005,Polytechnic
+193,2005,F,Health Sciences,1326,3971,877,Polytechnic
+194,2005,F,Humanities & Social Sciences,71,73,0,Polytechnic
+195,2005,F,Information Technology,1887,5065,1464,Polytechnic
+196,2005,F,Law,83,221,71,Polytechnic
+197,2005,F,Mass Communication,324,1029,282,Polytechnic
+198,2005,F,Natural & Mathematical Sciences,712,1678,447,Polytechnic
+199,2005,F,Services,68,173,35,Polytechnic
+200,2005,MF,Applied Arts,1128,2593,550,Polytechnic
+201,2005,MF,"Architecture, Building & Real Estate",515,1466,425,Polytechnic
+202,2005,MF,Business & Administration,3483,10143,3044,Polytechnic
+203,2005,MF,Education,189,484,111,Polytechnic
+204,2005,MF,Engineering Sciences,7826,22462,6536,Polytechnic
+205,2005,MF,Health Sciences,1639,4962,1016,Polytechnic
+206,2005,MF,Humanities & Social Sciences,81,83,0,Polytechnic
+207,2005,MF,Information Technology,4122,11607,3356,Polytechnic
+208,2005,MF,Law,126,341,102,Polytechnic
+209,2005,MF,Mass Communication,448,1426,419,Polytechnic
+210,2005,MF,Natural & Mathematical Sciences,1209,2844,768,Polytechnic
+211,2005,MF,Services,140,469,188,Polytechnic
+212,2006,F,Applied Arts,742,1894,319,Polytechnic
+213,2006,F,"Architecture, Building & Real Estate",342,955,233,Polytechnic
+214,2006,F,Business & Administration,2487,7225,2208,Polytechnic
+215,2006,F,Education,209,545,128,Polytechnic
+216,2006,F,Engineering Sciences,2108,6197,1786,Polytechnic
+217,2006,F,Health Sciences,1554,4428,1080,Polytechnic
+218,2006,F,Humanities & Social Sciences,66,136,0,Polytechnic
+219,2006,F,Information Technology,1728,5134,1477,Polytechnic
+220,2006,F,Law,70,221,63,Polytechnic
+221,2006,F,Mass Communication,310,1019,296,Polytechnic
+222,2006,F,Natural & Mathematical Sciences,684,1777,460,Polytechnic
+223,2006,F,Services,94,211,50,Polytechnic
+224,2006,MF,Applied Arts,1300,3255,542,Polytechnic
+225,2006,MF,"Architecture, Building & Real Estate",596,1622,394,Polytechnic
+226,2006,MF,Business & Administration,3944,10869,3046,Polytechnic
+227,2006,MF,Education,266,614,131,Polytechnic
+228,2006,MF,Engineering Sciences,8209,23713,6415,Polytechnic
+229,2006,MF,Health Sciences,1955,5607,1328,Polytechnic
+230,2006,MF,Humanities & Social Sciences,75,153,0,Polytechnic
+231,2006,MF,Information Technology,3972,11753,3351,Polytechnic
+232,2006,MF,Law,116,353,88,Polytechnic
+233,2006,MF,Mass Communication,450,1428,416,Polytechnic
+234,2006,MF,Natural & Mathematical Sciences,1184,3063,761,Polytechnic
+235,2006,MF,Services,209,532,166,Polytechnic
+236,2007,F,Applied Arts,865,2221,409,Polytechnic
+237,2007,F,"Architecture, Building & Real Estate",363,1010,273,Polytechnic
+238,2007,F,Business & Administration,2909,7839,2247,Polytechnic
+239,2007,F,Education,238,623,156,Polytechnic
+240,2007,F,Engineering Sciences,2054,6461,1685,Polytechnic
+241,2007,F,Health Sciences,1653,4602,1400,Polytechnic
+242,2007,F,Humanities & Social Sciences,88,222,0,Polytechnic
+243,2007,F,Information Technology,1651,5199,1410,Polytechnic
+244,2007,F,Law,81,226,65,Polytechnic
+245,2007,F,Mass Communication,354,989,377,Polytechnic
+246,2007,F,Natural & Mathematical Sciences,846,2095,453,Polytechnic
+247,2007,F,Services,86,247,51,Polytechnic
+248,2007,MF,Applied Arts,1455,3801,707,Polytechnic
+249,2007,MF,"Architecture, Building & Real Estate",624,1742,449,Polytechnic
+250,2007,MF,Business & Administration,4558,12098,3243,Polytechnic
+251,2007,MF,Education,309,765,159,Polytechnic
+252,2007,MF,Engineering Sciences,7972,24716,6307,Polytechnic
+253,2007,MF,Health Sciences,2110,5865,1755,Polytechnic
+254,2007,MF,Humanities & Social Sciences,111,262,0,Polytechnic
+255,2007,MF,Information Technology,3969,12088,3250,Polytechnic
+256,2007,MF,Law,117,351,103,Polytechnic
+257,2007,MF,Mass Communication,530,1428,512,Polytechnic
+258,2007,MF,Natural & Mathematical Sciences,1367,3547,764,Polytechnic
+259,2007,MF,Services,240,627,164,Polytechnic
+260,2008,F,Applied Arts,918,2355,582,Polytechnic
+261,2008,F,"Architecture, Building & Real Estate",327,982,292,Polytechnic
+262,2008,F,Business & Administration,3524,9221,2315,Polytechnic
+263,2008,F,Education,188,529,175,Polytechnic
+264,2008,F,Engineering Sciences,1809,6039,1996,Polytechnic
+265,2008,F,Health Sciences,1788,5002,1327,Polytechnic
+266,2008,F,Humanities & Social Sciences,306,603,67,Polytechnic
+267,2008,F,Information Technology,1707,5057,1716,Polytechnic
+268,2008,F,Law,66,204,78,Polytechnic
+269,2008,F,Mass Communication,378,1036,318,Polytechnic
+270,2008,F,Natural & Mathematical Sciences,833,2207,568,Polytechnic
+271,2008,F,Services,109,294,62,Polytechnic
+272,2008,MF,Applied Arts,1646,4176,963,Polytechnic
+273,2008,MF,"Architecture, Building & Real Estate",623,1774,465,Polytechnic
+274,2008,MF,Business & Administration,5827,14812,3376,Polytechnic
+275,2008,MF,Education,194,547,184,Polytechnic
+276,2008,MF,Engineering Sciences,7452,24156,7157,Polytechnic
+277,2008,MF,Health Sciences,2363,6423,1675,Polytechnic
+278,2008,MF,Humanities & Social Sciences,479,953,75,Polytechnic
+279,2008,MF,Information Technology,3943,11987,3730,Polytechnic
+280,2008,MF,Law,128,334,121,Polytechnic
+281,2008,MF,Mass Communication,542,1539,435,Polytechnic
+282,2008,MF,Natural & Mathematical Sciences,1354,3711,978,Polytechnic
+283,2008,MF,Services,287,725,158,Polytechnic
+284,2009,F,Applied Arts,942,2629,576,Polytechnic
+285,2009,F,"Architecture, Building & Real Estate",291,936,307,Polytechnic
+286,2009,F,Business & Administration,3524,9947,2533,Polytechnic
+287,2009,F,Education,190,540,173,Polytechnic
+288,2009,F,Engineering Sciences,1891,5922,1972,Polytechnic
+289,2009,F,Health Sciences,1953,5477,1396,Polytechnic
+290,2009,F,Humanities & Social Sciences,321,803,96,Polytechnic
+291,2009,F,Information Technology,1789,5192,1505,Polytechnic
+292,2009,F,Law,82,222,55,Polytechnic
+293,2009,F,Mass Communication,471,1186,303,Polytechnic
+294,2009,F,Natural & Mathematical Sciences,917,2416,592,Polytechnic
+295,2009,F,Services,127,330,82,Polytechnic
+296,2009,MF,Applied Arts,1690,4681,1004,Polytechnic
+297,2009,MF,"Architecture, Building & Real Estate",545,1724,540,Polytechnic
+298,2009,MF,Business & Administration,5715,16024,3942,Polytechnic
+299,2009,MF,Education,206,569,177,Polytechnic
+300,2009,MF,Engineering Sciences,7775,24248,7399,Polytechnic
+301,2009,MF,Health Sciences,2539,7082,1759,Polytechnic
+302,2009,MF,Humanities & Social Sciences,535,1294,153,Polytechnic
+303,2009,MF,Information Technology,4026,12097,3472,Polytechnic
+304,2009,MF,Law,129,354,96,Polytechnic
+305,2009,MF,Mass Communication,685,1743,435,Polytechnic
+306,2009,MF,Natural & Mathematical Sciences,1503,3977,1044,Polytechnic
+307,2009,MF,Services,276,773,203,Polytechnic
+308,2010,F,Applied Arts,1074,2872,703,Polytechnic
+309,2010,F,"Architecture, Building & Real Estate",330,923,318,Polytechnic
+310,2010,F,Business & Administration,3567,10455,2934,Polytechnic
+311,2010,F,Education,258,625,167,Polytechnic
+312,2010,F,Engineering Sciences,1752,5666,1893,Polytechnic
+313,2010,F,Health Sciences,2022,5779,1591,Polytechnic
+314,2010,F,Humanities & Social Sciences,392,993,183,Polytechnic
+315,2010,F,Information Technology,1586,5117,1586,Polytechnic
+316,2010,F,Law,85,225,74,Polytechnic
+317,2010,F,Mass Communication,485,1347,254,Polytechnic
+318,2010,F,Natural & Mathematical Sciences,993,2686,663,Polytechnic
+319,2010,F,Services,118,340,96,Polytechnic
+320,2010,MF,Applied Arts,1939,5169,1193,Polytechnic
+321,2010,MF,"Architecture, Building & Real Estate",603,1734,539,Polytechnic
+322,2010,MF,Business & Administration,5707,16967,4516,Polytechnic
+323,2010,MF,Education,271,660,174,Polytechnic
+324,2010,MF,Engineering Sciences,7555,23882,7295,Polytechnic
+325,2010,MF,Health Sciences,2655,7588,1968,Polytechnic
+326,2010,MF,Humanities & Social Sciences,683,1673,275,Polytechnic
+327,2010,MF,Information Technology,3687,11885,3693,Polytechnic
+328,2010,MF,Law,143,377,108,Polytechnic
+329,2010,MF,Mass Communication,664,1940,377,Polytechnic
+330,2010,MF,Natural & Mathematical Sciences,1534,4346,1070,Polytechnic
+331,2010,MF,Services,266,768,237,Polytechnic
+332,2011,F,Applied Arts,1130,3104,770,Polytechnic
+333,2011,F,"Architecture, Building & Real Estate",459,1063,297,Polytechnic
+334,2011,F,Business & Administration,3510,10571,3271,Polytechnic
+335,2011,F,Education,255,687,178,Polytechnic
+336,2011,F,Engineering Sciences,1837,5550,1814,Polytechnic
+337,2011,F,Health Sciences,1906,5879,1661,Polytechnic
+338,2011,F,Humanities & Social Sciences,422,1109,278,Polytechnic
+339,2011,F,Information Technology,1626,4939,1607,Polytechnic
+340,2011,F,Law,77,235,53,Polytechnic
+341,2011,F,Mass Communication,418,1283,348,Polytechnic
+342,2011,F,Natural & Mathematical Sciences,984,2846,732,Polytechnic
+343,2011,F,Services,177,412,97,Polytechnic
+344,2011,MF,Applied Arts,1990,5607,1343,Polytechnic
+345,2011,MF,"Architecture, Building & Real Estate",775,1880,565,Polytechnic
+346,2011,MF,Business & Administration,5789,17215,5306,Polytechnic
+347,2011,MF,Education,276,736,183,Polytechnic
+348,2011,MF,Engineering Sciences,7946,23873,7186,Polytechnic
+349,2011,MF,Health Sciences,2537,7747,2158,Polytechnic
+350,2011,MF,Humanities & Social Sciences,770,1952,429,Polytechnic
+351,2011,MF,Information Technology,3942,11689,3732,Polytechnic
+352,2011,MF,Law,141,404,95,Polytechnic
+353,2011,MF,Mass Communication,587,1806,511,Polytechnic
+354,2011,MF,Natural & Mathematical Sciences,1587,4620,1178,Polytechnic
+355,2011,MF,Services,397,914,232,Polytechnic
+356,2012,F,Applied Arts,1164,3346,855,Polytechnic
+357,2012,F,"Architecture, Building & Real Estate",423,1185,271,Polytechnic
+358,2012,F,Business & Administration,3772,10706,3361,Polytechnic
+359,2012,F,Education,275,768,180,Polytechnic
+360,2012,F,Engineering Sciences,1753,5301,1815,Polytechnic
+361,2012,F,Health Sciences,1675,5515,1923,Polytechnic
+362,2012,F,Humanities & Social Sciences,461,1248,289,Polytechnic
+363,2012,F,Information Technology,1559,4797,1580,Polytechnic
+364,2012,F,Law,79,232,75,Polytechnic
+365,2012,F,Mass Communication,459,1182,452,Polytechnic
+366,2012,F,Natural & Mathematical Sciences,1050,2971,845,Polytechnic
+367,2012,F,Services,207,499,118,Polytechnic
+368,2012,MF,Applied Arts,2024,5983,1559,Polytechnic
+369,2012,MF,"Architecture, Building & Real Estate",779,2088,512,Polytechnic
+370,2012,MF,Business & Administration,6066,17449,5422,Polytechnic
+371,2012,MF,Education,294,821,196,Polytechnic
+372,2012,MF,Engineering Sciences,7741,23537,7291,Polytechnic
+373,2012,MF,Health Sciences,2243,7338,2478,Polytechnic
+374,2012,MF,Humanities & Social Sciences,801,2214,477,Polytechnic
+375,2012,MF,Information Technology,3976,11677,3642,Polytechnic
+376,2012,MF,Law,139,414,114,Polytechnic
+377,2012,MF,Mass Communication,628,1695,653,Polytechnic
+378,2012,MF,Natural & Mathematical Sciences,1639,4735,1391,Polytechnic
+379,2012,MF,Services,424,1052,264,Polytechnic
+380,2013,F,Applied Arts,1214,3389,963,Polytechnic
+381,2013,F,"Architecture, Building & Real Estate",447,1310,353,Polytechnic
+382,2013,F,Business & Administration,3861,11087,3365,Polytechnic
+383,2013,F,Education,288,805,250,Polytechnic
+384,2013,F,Engineering Sciences,1691,5205,1618,Polytechnic
+385,2013,F,Health Sciences,1842,5413,1853,Polytechnic
+386,2013,F,Humanities & Social Sciences,425,1278,369,Polytechnic
+387,2013,F,Information Technology,1431,4520,1509,Polytechnic
+388,2013,F,Law,76,218,78,Polytechnic
+389,2013,F,Mass Communication,473,1328,463,Polytechnic
+390,2013,F,Natural & Mathematical Sciences,992,2980,922,Polytechnic
+391,2013,F,Services,202,586,117,Polytechnic
+392,2013,MF,Applied Arts,2097,5935,1746,Polytechnic
+393,2013,MF,"Architecture, Building & Real Estate",796,2296,630,Polytechnic
+394,2013,MF,Business & Administration,6267,18117,5400,Polytechnic
+395,2013,MF,Education,323,880,262,Polytechnic
+396,2013,MF,Engineering Sciences,7655,23474,7016,Polytechnic
+397,2013,MF,Health Sciences,2410,7162,2454,Polytechnic
+398,2013,MF,Humanities & Social Sciences,756,2290,627,Polytechnic
+399,2013,MF,Information Technology,3756,11622,3523,Polytechnic
+400,2013,MF,Law,140,405,132,Polytechnic
+401,2013,MF,Mass Communication,661,1850,638,Polytechnic
+402,2013,MF,Natural & Mathematical Sciences,1602,4765,1469,Polytechnic
+403,2013,MF,Services,416,1174,260,Polytechnic
+404,2014,F,Applied Arts,1183,3448,995,Polytechnic
+405,2014,F,"Architecture, Building & Real Estate",471,1329,435,Polytechnic
+406,2014,F,Business & Administration,3799,11355,3394,Polytechnic
+407,2014,F,Education,317,872,239,Polytechnic
+408,2014,F,Engineering Sciences,1558,4734,1612,Polytechnic
+409,2014,F,Health Sciences,1659,5154,1838,Polytechnic
+410,2014,F,Humanities & Social Sciences,430,1299,388,Polytechnic
+411,2014,F,Information Technology,1230,4204,1483,Polytechnic
+412,2014,F,Law,79,224,66,Polytechnic
+413,2014,F,Mass Communication,491,1413,393,Polytechnic
+414,2014,F,Natural & Mathematical Sciences,1022,3010,931,Polytechnic
+415,2014,F,Services,298,894,238,Polytechnic
+416,2014,MF,Applied Arts,2123,6133,1720,Polytechnic
+417,2014,MF,"Architecture, Building & Real Estate",797,2339,707,Polytechnic
+418,2014,MF,Business & Administration,6017,18339,5596,Polytechnic
+419,2014,MF,Education,333,938,260,Polytechnic
+420,2014,MF,Engineering Sciences,7030,21919,6983,Polytechnic
+421,2014,MF,Health Sciences,2276,6902,2413,Polytechnic
+422,2014,MF,Humanities & Social Sciences,778,2326,703,Polytechnic
+423,2014,MF,Information Technology,3297,11146,3577,Polytechnic
+424,2014,MF,Law,134,407,122,Polytechnic
+425,2014,MF,Mass Communication,654,1932,555,Polytechnic
+426,2014,MF,Natural & Mathematical Sciences,1629,4814,1486,Polytechnic
+427,2014,MF,Services,709,2119,599,Polytechnic
+428,2015,F,Applied Arts,1021,3186,977,Polytechnic
+429,2015,F,"Architecture, Building & Real Estate",390,1283,396,Polytechnic
+430,2015,F,Business & Administration,3062,10062,3384,Polytechnic
+431,2015,F,Education,319,911,274,Polytechnic
+432,2015,F,Engineering Sciences,1705,5064,1659,Polytechnic
+433,2015,F,Health Sciences,1996,5794,1693,Polytechnic
+434,2015,F,Humanities & Social Sciences,248,773,257,Polytechnic
+435,2015,F,Information Technology,1074,3629,1298,Polytechnic
+436,2015,F,Law,73,222,71,Polytechnic
+437,2015,F,Mass Communication,456,1496,470,Polytechnic
+438,2015,F,Natural & Mathematical Sciences,864,2817,919,Polytechnic
+439,2015,F,Services,567,1748,583,Polytechnic
+440,2015,MF,Applied Arts,1739,5473,1708,Polytechnic
+441,2015,MF,"Architecture, Building & Real Estate",670,2217,715,Polytechnic
+442,2015,MF,Business & Administration,4871,16293,5455,Polytechnic
+443,2015,MF,Education,340,977,292,Polytechnic
+444,2015,MF,Engineering Sciences,7317,22181,6967,Polytechnic
+445,2015,MF,Health Sciences,2690,7960,2297,Polytechnic
+446,2015,MF,Humanities & Social Sciences,330,1047,343,Polytechnic
+447,2015,MF,Information Technology,3037,10023,3413,Polytechnic
+448,2015,MF,Law,116,390,126,Polytechnic
+449,2015,MF,Mass Communication,609,2033,644,Polytechnic
+450,2015,MF,Natural & Mathematical Sciences,1415,4564,1477,Polytechnic
+451,2015,MF,Services,1117,3707,1194,Polytechnic
+452,2016,F,Applied Arts,1011,3064,1024,Polytechnic
+453,2016,F,"Architecture, Building & Real Estate",371,1207,420,Polytechnic
+454,2016,F,Business & Administration,2846,9406,3417,Polytechnic
+455,2016,F,Education,548,1181,277,Polytechnic
+456,2016,F,Engineering Sciences,1395,4721,1601,Polytechnic
+457,2016,F,Health Sciences,1894,5704,1895,Polytechnic
+458,2016,F,Humanities & Social Sciences,256,758,261,Polytechnic
+459,2016,F,Information Technology,906,3175,1275,Polytechnic
+460,2016,F,Law,66,218,68,Polytechnic
+461,2016,F,Mass Communication,457,1436,498,Polytechnic
+462,2016,F,Natural & Mathematical Sciences,789,2634,904,Polytechnic
+463,2016,F,Services,479,1624,571,Polytechnic
+464,2016,MF,Applied Arts,1721,5236,1783,Polytechnic
+465,2016,MF,"Architecture, Building & Real Estate",623,2039,743,Polytechnic
+466,2016,MF,Business & Administration,4646,15203,5595,Polytechnic
+467,2016,MF,Education,586,1252,307,Polytechnic
+468,2016,MF,Engineering Sciences,6811,21334,6939,Polytechnic
+469,2016,MF,Health Sciences,2537,7806,2556,Polytechnic
+470,2016,MF,Humanities & Social Sciences,342,1020,353,Polytechnic
+471,2016,MF,Information Technology,2769,9198,3305,Polytechnic
+472,2016,MF,Law,101,357,126,Polytechnic
+473,2016,MF,Mass Communication,618,1920,701,Polytechnic
+474,2016,MF,Natural & Mathematical Sciences,1296,4302,1457,Polytechnic
+475,2016,MF,Services,1071,3482,1239,Polytechnic
+476,2017,F,Applied Arts,1147,3128,1000,Polytechnic
+477,2017,F,"Architecture, Building & Real Estate",390,1129,441,Polytechnic
+478,2017,F,Business & Administration,2931,8836,3384,Polytechnic
+479,2017,F,Education,650,1503,307,Polytechnic
+480,2017,F,Engineering Sciences,1481,4518,1572,Polytechnic
+481,2017,F,Health Sciences,1933,5807,1771,Polytechnic
+482,2017,F,Humanities & Social Sciences,298,792,257,Polytechnic
+483,2017,F,Information Technology,889,2889,1099,Polytechnic
+484,2017,F,Law,64,208,72,Polytechnic
+485,2017,F,Mass Communication,475,1368,523,Polytechnic
+486,2017,F,Natural & Mathematical Sciences,778,2400,955,Polytechnic
+487,2017,F,Services,500,1559,547,Polytechnic
+488,2017,MF,Applied Arts,1885,5291,1682,Polytechnic
+489,2017,MF,"Architecture, Building & Real Estate",714,1979,736,Polytechnic
+490,2017,MF,Business & Administration,4834,14453,5416,Polytechnic
+491,2017,MF,Education,709,1618,320,Polytechnic
+492,2017,MF,Engineering Sciences,6938,21019,6615,Polytechnic
+493,2017,MF,Health Sciences,2567,7798,2467,Polytechnic
+494,2017,MF,Humanities & Social Sciences,391,1048,347,Polytechnic
+495,2017,MF,Information Technology,2909,8766,3089,Polytechnic
+496,2017,MF,Law,97,330,120,Polytechnic
+497,2017,MF,Mass Communication,642,1842,697,Polytechnic
+498,2017,MF,Natural & Mathematical Sciences,1304,3982,1529,Polytechnic
+499,2017,MF,Services,1074,3310,1192,Polytechnic
+500,2018,F,Applied Arts,1111,3215,941,Polytechnic
+501,2018,F,"Architecture, Building & Real Estate",382,1104,370,Polytechnic
+502,2018,F,Business & Administration,2811,8546,3006,Polytechnic
+503,2018,F,Education,660,1843,312,Polytechnic
+504,2018,F,Engineering Sciences,1473,4328,1543,Polytechnic
+505,2018,F,Health Sciences,2093,5909,1895,Polytechnic
+506,2018,F,Humanities & Social Sciences,268,809,233,Polytechnic
+507,2018,F,Information Technology,817,2608,996,Polytechnic
+508,2018,F,Law,70,197,76,Polytechnic
+509,2018,F,Mass Communication,500,1420,437,Polytechnic
+510,2018,F,Natural & Mathematical Sciences,773,2308,825,Polytechnic
+511,2018,F,Services,436,1436,541,Polytechnic
+512,2018,MF,Applied Arts,1894,5424,1610,Polytechnic
+513,2018,MF,"Architecture, Building & Real Estate",724,2007,614,Polytechnic
+514,2018,MF,Business & Administration,4642,14164,4784,Polytechnic
+515,2018,MF,Education,717,1989,332,Polytechnic
+516,2018,MF,Engineering Sciences,6868,20645,6540,Polytechnic
+517,2018,MF,Health Sciences,2758,7856,2565,Polytechnic
+518,2018,MF,Humanities & Social Sciences,352,1071,310,Polytechnic
+519,2018,MF,Information Technology,2820,8538,2747,Polytechnic
+520,2018,MF,Law,104,301,124,Polytechnic
+521,2018,MF,Mass Communication,675,1917,582,Polytechnic
+522,2018,MF,Natural & Mathematical Sciences,1232,3794,1353,Polytechnic
+523,2018,MF,Services,1083,3279,1053,Polytechnic
+524,2019,F,Applied Arts,1084,3290,934,Polytechnic
+525,2019,F,"Architecture, Building & Real Estate",326,1052,337,Polytechnic
+526,2019,F,Business & Administration,2659,8359,2733,Polytechnic
+527,2019,F,Education,660,1951,522,Polytechnic
+528,2019,F,Engineering Sciences,1409,4316,1271,Polytechnic
+529,2019,F,Health Sciences,1901,5904,1834,Polytechnic
+530,2019,F,Humanities & Social Sciences,258,816,242,Polytechnic
+531,2019,F,Information Technology,730,2412,843,Polytechnic
+532,2019,F,Law,69,200,61,Polytechnic
+533,2019,F,Mass Communication,437,1396,447,Polytechnic
+534,2019,F,Natural & Mathematical Sciences,691,2200,743,Polytechnic
+535,2019,F,Services,375,1312,469,Polytechnic
+536,2019,MF,Applied Arts,1776,5489,1580,Polytechnic
+537,2019,MF,"Architecture, Building & Real Estate",634,1991,579,Polytechnic
+538,2019,MF,Business & Administration,4288,13791,4489,Polytechnic
+539,2019,MF,Education,717,2116,555,Polytechnic
+540,2019,MF,Engineering Sciences,6362,20168,6061,Polytechnic
+541,2019,MF,Health Sciences,2592,7892,2430,Polytechnic
+542,2019,MF,Humanities & Social Sciences,324,1058,325,Polytechnic
+543,2019,MF,Information Technology,2651,8339,2548,Polytechnic
+544,2019,MF,Law,105,304,96,Polytechnic
+545,2019,MF,Mass Communication,590,1886,601,Polytechnic
+546,2019,MF,Natural & Mathematical Sciences,1136,3623,1218,Polytechnic
+547,2019,MF,Services,896,3076,1050,Polytechnic
+548,2020,F,Applied Arts,1049,3199,1059,Polytechnic
+549,2020,F,"Architecture, Building & Real Estate",329,988,350,Polytechnic
+550,2020,F,Business & Administration,2521,7975,2785,Polytechnic
+551,2020,F,Education,663,2001,661,Polytechnic
+552,2020,F,Engineering Sciences,1224,4220,1363,Polytechnic
+553,2020,F,Health Sciences,1842,5888,1789,Polytechnic
+554,2020,F,Humanities & Social Sciences,228,698,259,Polytechnic
+555,2020,F,Information Technology,637,2173,802,Polytechnic
+556,2020,F,Law,60,210,62,Polytechnic
+557,2020,F,Mass Communication,415,1334,461,Polytechnic
+558,2020,F,Natural & Mathematical Sciences,669,1947,730,Polytechnic
+559,2020,F,Services,375,1222,482,Polytechnic
+560,2020,MF,Applied Arts,1711,5312,1729,Polytechnic
+561,2020,MF,"Architecture, Building & Real Estate",624,1892,633,Polytechnic
+562,2020,MF,Business & Administration,4156,13124,4603,Polytechnic
+563,2020,MF,Education,713,2164,713,Polytechnic
+564,2020,MF,Engineering Sciences,5919,19531,6327,Polytechnic
+565,2020,MF,Health Sciences,2516,7919,2375,Polytechnic
+566,2020,MF,Humanities & Social Sciences,298,909,348,Polytechnic
+567,2020,MF,Information Technology,2520,7997,2610,Polytechnic
+568,2020,MF,Law,108,328,93,Polytechnic
+569,2020,MF,Mass Communication,549,1792,620,Polytechnic
+570,2020,MF,Natural & Mathematical Sciences,1109,3037,1201,Polytechnic
+571,2020,MF,Services,791,2928,1008,Polytechnic
+572,2021,F,Applied Arts,1132,3243,1029,Polytechnic
+573,2021,F,"Architecture, Building & Real Estate",342,981,329,Polytechnic
+574,2021,F,Business & Administration,2301,7406,2755,Polytechnic
+575,2021,F,Education,685,2006,665,Polytechnic
+576,2021,F,Engineering Sciences,1281,3881,1370,Polytechnic
+577,2021,F,Health Sciences,1709,5517,2052,Polytechnic
+578,2021,F,Humanities & Social Sciences,246,713,223,Polytechnic
+579,2021,F,Information Technology,662,2010,768,Polytechnic
+580,2021,F,Law,70,236,61,Polytechnic
+581,2021,F,Mass Communication,299,1142,479,Polytechnic
+582,2021,F,Natural & Mathematical Sciences,676,1987,731,Polytechnic
+583,2021,F,Services,327,1145,421,Polytechnic
+584,2021,MF,Applied Arts,1791,5240,1746,Polytechnic
+585,2021,MF,"Architecture, Building & Real Estate",678,1897,628,Polytechnic
+586,2021,MF,Business & Administration,3911,12333,4514,Polytechnic
+587,2021,MF,Education,728,2154,722,Polytechnic
+588,2021,MF,Engineering Sciences,5657,18053,6276,Polytechnic
+589,2021,MF,Health Sciences,2396,7580,2669,Polytechnic
+590,2021,MF,Humanities & Social Sciences,308,910,297,Polytechnic
+591,2021,MF,Information Technology,2702,7854,2647,Polytechnic
+592,2021,MF,Law,105,379,91,Polytechnic
+593,2021,MF,Mass Communication,406,1535,648,Polytechnic
+594,2021,MF,Natural & Mathematical Sciences,1089,3272,1175,Polytechnic
+595,2021,MF,Services,715,2589,1032,Polytechnic
+596,2022,F,Applied Arts,1129,3300,1013,Polytechnic
+597,2022,F,"Architecture, Building & Real Estate",336,973,313,Polytechnic
+598,2022,F,Business & Administration,2345,7069,2528,Polytechnic
+599,2022,F,Education,640,1964,664,Polytechnic
+600,2022,F,Engineering Sciences,1333,3891,1334,Polytechnic
+601,2022,F,Health Sciences,1640,5388,1829,Polytechnic
+602,2022,F,Humanities & Social Sciences,245,709,238,Polytechnic
+603,2022,F,Information Technology,759,2027,701,Polytechnic
+604,2022,F,Law,62,249,80,Polytechnic
+605,2022,F,Mass Communication,294,989,427,Polytechnic
+606,2022,F,Natural & Mathematical Sciences,639,1750,614,Polytechnic
+607,2022,F,Services,304,1059,381,Polytechnic
+608,2022,MF,Applied Arts,1795,5289,1651,Polytechnic
+609,2022,MF,"Architecture, Building & Real Estate",689,1932,592,Polytechnic
+610,2022,MF,Business & Administration,3851,11797,4085,Polytechnic
+611,2022,MF,Education,694,2112,716,Polytechnic
+612,2022,MF,Engineering Sciences,5783,17593,5883,Polytechnic
+613,2022,MF,Health Sciences,2332,7519,2468,Polytechnic
+614,2022,MF,Humanities & Social Sciences,302,898,301,Polytechnic
+615,2022,MF,Information Technology,2869,7997,2504,Polytechnic
+616,2022,MF,Law,106,408,118,Polytechnic
+617,2022,MF,Mass Communication,401,1339,570,Polytechnic
+618,2022,MF,Natural & Mathematical Sciences,966,2711,963,Polytechnic
+619,2022,MF,Services,673,2296,913,Polytechnic
+620,2023,F,Applied Arts,1239,3435,1005,Polytechnic
+621,2023,F,"Architecture, Building & Real Estate",382,1031,295,Polytechnic
+622,2023,F,Business & Administration,2230,6777,2376,Polytechnic
+623,2023,F,Education,660,1966,625,Polytechnic
+624,2023,F,Engineering Sciences,1355,3929,1161,Polytechnic
+625,2023,F,Health Sciences,1684,5252,1875,Polytechnic
+626,2023,F,Humanities & Social Sciences,227,712,221,Polytechnic
+627,2023,F,Information Technology,866,2242,591,Polytechnic
+628,2023,F,Law,82,267,79,Polytechnic
+629,2023,F,Mass Communication,276,861,393,Polytechnic
+630,2023,F,Natural & Mathematical Sciences,831,1923,560,Polytechnic
+631,2023,F,Services,306,1002,390,Polytechnic
+632,2023,MF,Applied Arts,1892,5404,1625,Polytechnic
+633,2023,MF,"Architecture, Building & Real Estate",695,2043,540,Polytechnic
+634,2023,MF,Business & Administration,3837,11481,3913,Polytechnic
+635,2023,MF,Education,708,2105,674,Polytechnic
+636,2023,MF,Engineering Sciences,5781,17220,5422,Polytechnic
+637,2023,MF,Health Sciences,2373,7403,2522,Polytechnic
+638,2023,MF,Humanities & Social Sciences,303,902,288,Polytechnic
+639,2023,MF,Information Technology,3029,8467,2293,Polytechnic
+640,2023,MF,Law,120,410,140,Polytechnic
+641,2023,MF,Mass Communication,367,1168,518,Polytechnic
+642,2023,MF,Natural & Mathematical Sciences,1220,2912,871,Polytechnic
+643,2023,MF,Services,704,2279,819,Polytechnic
+644,2024,F,Applied Arts,1171,3480,1023,Polytechnic
+645,2024,F,"Architecture, Building & Real Estate",345,1031,309,Polytechnic
+646,2024,F,Business & Administration,2315,6935,2242,Polytechnic
+647,2024,F,Education,674,1976,684,Polytechnic
+648,2024,F,Engineering Sciences,1351,3704,1057,Polytechnic
+649,2024,F,Health Sciences,1579,5250,1670,Polytechnic
+650,2024,F,Humanities & Social Sciences,225,696,228,Polytechnic
+651,2024,F,Information Technology,922,2659,617,Polytechnic
+652,2024,F,Law,91,271,96,Polytechnic
+653,2024,F,Mass Communication,277,868,285,Polytechnic
+654,2024,F,Natural & Mathematical Sciences,832,2159,585,Polytechnic
+655,2024,F,Services,302,906,287,Polytechnic
+656,2024,MF,Applied Arts,1821,5413,1648,Polytechnic
+657,2024,MF,"Architecture, Building & Real Estate",647,2026,619,Polytechnic
+658,2024,MF,Business & Administration,4074,11968,3786,Polytechnic
+659,2024,MF,Education,767,2237,746,Polytechnic
+660,2024,MF,Engineering Sciences,5240,15928,4873,Polytechnic
+661,2024,MF,Health Sciences,2115,7086,2261,Polytechnic
+662,2024,MF,Humanities & Social Sciences,296,896,284,Polytechnic
+663,2024,MF,Information Technology,3164,9575,2532,Polytechnic
+664,2024,MF,Law,126,404,143,Polytechnic
+665,2024,MF,Mass Communication,354,1152,392,Polytechnic
+666,2024,MF,Natural & Mathematical Sciences,1290,3329,940,Polytechnic
+667,2024,MF,Services,771,2271,679,Polytechnic
+668,2005,F,Accountancy,530,1732,495,University
+669,2005,F,"Architecture, Building & Real Estate",175,786,106,University
+670,2005,F,Business & Administration,901,3098,898,University
+671,2005,F,Dentistry,19,67,12,University
+672,2005,F,Engineering Sciences,1170,4868,1200,University
+673,2005,F,Fine & Applied Arts,103,212,11,University
+674,2005,F,Health Sciences,149,352,69,University
+675,2005,F,Humanities & Social Sciences,1644,4799,1249,University
+676,2005,F,Information Technology,280,765,200,University
+677,2005,F,Law,125,498,125,University
+678,2005,F,Mass Communication,130,507,110,University
+679,2005,F,Medicine,103,479,86,University
+680,2005,F,Natural & Mathematical Sciences,1004,3416,769,University
+681,2005,F,Services,38,80,0,University
+682,2005,MF,Accountancy,876,2561,706,University
+683,2005,MF,"Architecture, Building & Real Estate",299,1310,180,University
+684,2005,MF,Business & Administration,1545,5013,1256,University
+685,2005,MF,Dentistry,33,139,34,University
+686,2005,MF,Engineering Sciences,4028,16599,3859,University
+687,2005,MF,Fine & Applied Arts,163,355,22,University
+688,2005,MF,Health Sciences,176,433,85,University
+689,2005,MF,Humanities & Social Sciences,2233,6743,1650,University
+690,2005,MF,Information Technology,773,2356,562,University
+691,2005,MF,Law,220,844,187,University
+692,2005,MF,Mass Communication,172,644,146,University
+693,2005,MF,Medicine,233,1169,209,University
+694,2005,MF,Natural & Mathematical Sciences,1701,5389,1135,University
+695,2005,MF,Services,56,108,0,University
+696,2006,F,Accountancy,557,1819,468,University
+697,2006,F,"Architecture, Building & Real Estate",226,810,193,University
+698,2006,F,Business & Administration,1035,3297,818,University
+699,2006,F,Dentistry,26,78,14,University
+700,2006,F,Engineering Sciences,1025,4694,1137,University
+701,2006,F,Fine & Applied Arts,137,334,13,University
+702,2006,F,Health Sciences,201,489,57,University
+703,2006,F,Humanities & Social Sciences,1813,5282,1298,University
+704,2006,F,Information Technology,185,796,139,University
+705,2006,F,Law,102,463,134,University
+706,2006,F,Mass Communication,153,555,108,University
+707,2006,F,Medicine,119,503,94,University
+708,2006,F,Natural & Mathematical Sciences,1348,3755,955,University
+709,2006,F,Services,36,117,0,University
+710,2006,MF,Accountancy,934,2844,644,University
+711,2006,MF,"Architecture, Building & Real Estate",379,1336,329,University
+712,2006,MF,Business & Administration,1772,5490,1250,University
+713,2006,MF,Dentistry,42,148,32,University
+714,2006,MF,Engineering Sciences,4101,16663,3811,University
+715,2006,MF,Fine & Applied Arts,233,557,24,University
+716,2006,MF,Health Sciences,240,583,81,University
+717,2006,MF,Humanities & Social Sciences,2573,7532,1758,University
+718,2006,MF,Information Technology,728,2505,540,University
+719,2006,MF,Law,238,872,204,University
+720,2006,MF,Mass Communication,180,685,141,University
+721,2006,MF,Medicine,251,1188,229,University
+722,2006,MF,Natural & Mathematical Sciences,1994,5899,1384,University
+723,2006,MF,Services,68,177,0,University
+724,2007,F,Accountancy,625,1914,574,University
+725,2007,F,"Architecture, Building & Real Estate",313,934,177,University
+726,2007,F,Business & Administration,1069,3363,893,University
+727,2007,F,Dentistry,26,89,15,University
+728,2007,F,Engineering Sciences,1192,4553,1258,University
+729,2007,F,Fine & Applied Arts,147,429,41,University
+730,2007,F,Health Sciences,207,617,67,University
+731,2007,F,Humanities & Social Sciences,2056,6176,1123,University
+732,2007,F,Information Technology,249,824,206,University
+733,2007,F,Law,208,547,123,University
+734,2007,F,Mass Communication,136,546,141,University
+735,2007,F,Medicine,116,536,83,University
+736,2007,F,Natural & Mathematical Sciences,1415,4232,869,University
+737,2007,F,Services,48,163,0,University
+738,2007,MF,Accountancy,1000,3074,834,University
+739,2007,MF,"Architecture, Building & Real Estate",453,1479,288,University
+740,2007,MF,Business & Administration,1733,5675,1384,University
+741,2007,MF,Dentistry,42,154,36,University
+742,2007,MF,Engineering Sciences,4064,16042,4366,University
+743,2007,MF,Fine & Applied Arts,242,711,69,University
+744,2007,MF,Health Sciences,259,745,86,University
+745,2007,MF,Humanities & Social Sciences,2812,8667,1607,University
+746,2007,MF,Information Technology,776,2660,573,University
+747,2007,MF,Law,332,1004,207,University
+748,2007,MF,Mass Communication,182,693,169,University
+749,2007,MF,Medicine,250,1207,227,University
+750,2007,MF,Natural & Mathematical Sciences,2137,6605,1325,University
+751,2007,MF,Services,71,246,0,University
+752,2008,F,Accountancy,638,1910,536,University
+753,2008,F,"Architecture, Building & Real Estate",272,952,232,University
+754,2008,F,Business & Administration,943,3423,959,University
+755,2008,F,Dentistry,21,93,17,University
+756,2008,F,Engineering Sciences,1064,4102,1254,University
+757,2008,F,Fine & Applied Arts,129,503,50,University
+758,2008,F,Health Sciences,185,712,77,University
+759,2008,F,Humanities & Social Sciences,1971,6783,1312,University
+760,2008,F,Information Technology,307,1021,275,University
+761,2008,F,Law,221,649,115,University
+762,2008,F,Mass Communication,133,543,132,University
+763,2008,F,Medicine,127,566,96,University
+764,2008,F,Natural & Mathematical Sciences,1333,4651,856,University
+765,2008,F,Services,36,157,43,University
+766,2008,MF,Accountancy,1055,3139,831,University
+767,2008,MF,"Architecture, Building & Real Estate",452,1530,368,University
+768,2008,MF,Business & Administration,1536,5848,1462,University
+769,2008,MF,Dentistry,44,163,35,University
+770,2008,MF,Engineering Sciences,3598,14368,3887,University
+771,2008,MF,Fine & Applied Arts,236,845,81,University
+772,2008,MF,Health Sciences,247,888,87,University
+773,2008,MF,Humanities & Social Sciences,2823,9609,1817,University
+774,2008,MF,Information Technology,1033,3781,900,University
+775,2008,MF,Law,356,1143,209,University
+776,2008,MF,Mass Communication,169,688,164,University
+777,2008,MF,Medicine,260,1236,227,University
+778,2008,MF,Natural & Mathematical Sciences,2261,7413,1347,University
+779,2008,MF,Services,65,253,57,University
+780,2009,F,Accountancy,663,2059,595,University
+781,2009,F,"Architecture, Building & Real Estate",254,1027,163,University
+782,2009,F,Business & Administration,824,3270,855,University
+783,2009,F,Dentistry,29,103,19,University
+784,2009,F,Engineering Sciences,1278,4218,1117,University
+785,2009,F,Fine & Applied Arts,148,548,88,University
+786,2009,F,Health Sciences,204,800,107,University
+787,2009,F,Humanities & Social Sciences,2138,7272,1606,University
+788,2009,F,Information Technology,320,1132,175,University
+789,2009,F,Law,186,711,118,University
+790,2009,F,Mass Communication,102,516,128,University
+791,2009,F,Medicine,126,596,97,University
+792,2009,F,Natural & Mathematical Sciences,1382,4932,1040,University
+793,2009,F,Services,40,160,36,University
+794,2009,MF,Accountancy,1142,3471,937,University
+795,2009,MF,"Architecture, Building & Real Estate",434,1659,283,University
+796,2009,MF,Business & Administration,1519,5709,1482,University
+797,2009,MF,Dentistry,48,180,31,University
+798,2009,MF,Engineering Sciences,4199,14522,3870,University
+799,2009,MF,Fine & Applied Arts,269,957,135,University
+800,2009,MF,Health Sciences,295,1042,129,University
+801,2009,MF,Humanities & Social Sciences,3082,10434,2179,University
+802,2009,MF,Information Technology,991,3975,616,University
+803,2009,MF,Law,383,1321,207,University
+804,2009,MF,Mass Communication,168,692,164,University
+805,2009,MF,Medicine,260,1278,219,University
+806,2009,MF,Natural & Mathematical Sciences,2413,8076,1646,University
+807,2009,MF,Services,61,263,49,University
+808,2010,F,Accountancy,689,2159,553,University
+809,2010,F,"Architecture, Building & Real Estate",280,1117,173,University
+810,2010,F,Business & Administration,901,3287,856,University
+811,2010,F,Dentistry,31,108,25,University
+812,2010,F,Engineering Sciences,1144,4498,946,University
+813,2010,F,Fine & Applied Arts,186,607,121,University
+814,2010,F,Health Sciences,189,783,196,University
+815,2010,F,Humanities & Social Sciences,1807,7424,1645,University
+816,2010,F,Information Technology,276,1068,162,University
+817,2010,F,Law,175,783,89,University
+818,2010,F,Mass Communication,122,490,147,University
+819,2010,F,Medicine,121,620,94,University
+820,2010,F,Natural & Mathematical Sciences,1297,4949,1172,University
+821,2010,F,Services,236,363,35,University
+822,2010,MF,Accountancy,1169,3645,933,University
+823,2010,MF,"Architecture, Building & Real Estate",426,1786,263,University
+824,2010,MF,Business & Administration,1607,5763,1514,University
+825,2010,MF,Dentistry,48,184,41,University
+826,2010,MF,Engineering Sciences,4080,15387,3786,University
+827,2010,MF,Fine & Applied Arts,345,1080,205,University
+828,2010,MF,Health Sciences,276,1064,235,University
+829,2010,MF,Humanities & Social Sciences,2691,10743,2381,University
+830,2010,MF,Information Technology,939,3355,631,University
+831,2010,MF,Law,350,1423,227,University
+832,2010,MF,Mass Communication,164,675,177,University
+833,2010,MF,Medicine,260,1305,228,University
+834,2010,MF,Natural & Mathematical Sciences,2232,8361,1766,University
+835,2010,MF,Services,322,524,64,University
+836,2011,F,Accountancy,618,2244,507,University
+837,2011,F,"Architecture, Building & Real Estate",315,1163,247,University
+838,2011,F,Business & Administration,910,3237,944,University
+839,2011,F,Dentistry,29,111,26,University
+840,2011,F,Education,293,1301,303,University
+841,2011,F,Engineering Sciences,1241,4598,1119,University
+842,2011,F,Fine & Applied Arts,180,640,132,University
+843,2011,F,Health Sciences,264,820,213,University
+844,2011,F,Humanities & Social Sciences,1660,6447,1772,University
+845,2011,F,Information Technology,364,1178,195,University
+846,2011,F,Law,172,742,208,University
+847,2011,F,Mass Communication,135,490,133,University
+848,2011,F,Medicine,148,647,119,University
+849,2011,F,Natural & Mathematical Sciences,1335,4482,1217,University
+850,2011,F,Services,269,575,50,University
+851,2011,MF,Accountancy,1100,3871,839,University
+852,2011,MF,"Architecture, Building & Real Estate",475,1857,368,University
+853,2011,MF,Business & Administration,1637,5780,1577,University
+854,2011,MF,Dentistry,48,190,42,University
+855,2011,MF,Education,397,1752,406,University
+856,2011,MF,Engineering Sciences,4248,15624,3891,University
+857,2011,MF,Fine & Applied Arts,347,1179,216,University
+858,2011,MF,Health Sciences,347,1139,255,University
+859,2011,MF,Humanities & Social Sciences,2453,9689,2480,University
+860,2011,MF,Information Technology,1057,3643,583,University
+861,2011,MF,Law,364,1448,329,University
+862,2011,MF,Mass Communication,174,673,174,University
+863,2011,MF,Medicine,280,1328,255,University
+864,2011,MF,Natural & Mathematical Sciences,2252,7822,1836,University
+865,2011,MF,Services,387,827,74,University
+866,2012,F,Accountancy,682,2316,589,University
+867,2012,F,"Architecture, Building & Real Estate",216,1119,241,University
+868,2012,F,Business & Administration,989,3368,825,University
+869,2012,F,Dentistry,30,120,21,University
+870,2012,F,Education,344,1130,503,University
+871,2012,F,Engineering Sciences,1344,4785,1119,University
+872,2012,F,Fine & Applied Arts,270,761,149,University
+873,2012,F,Health Sciences,359,948,218,University
+874,2012,F,Humanities & Social Sciences,1758,6760,1494,University
+875,2012,F,Information Technology,354,1236,280,University
+876,2012,F,Law,191,717,207,University
+877,2012,F,Mass Communication,143,494,133,University
+878,2012,F,Medicine,157,679,123,University
+879,2012,F,Natural & Mathematical Sciences,1382,4625,1074,University
+880,2012,F,Services,221,702,135,University
+881,2012,MF,Accountancy,1213,4001,1036,University
+882,2012,MF,"Architecture, Building & Real Estate",395,1829,396,University
+883,2012,MF,Business & Administration,1732,6073,1397,University
+884,2012,MF,Dentistry,53,201,42,University
+885,2012,MF,Education,417,1538,614,University
+886,2012,MF,Engineering Sciences,4436,16185,3727,University
+887,2012,MF,Fine & Applied Arts,436,1347,257,University
+888,2012,MF,Health Sciences,447,1293,279,University
+889,2012,MF,Humanities & Social Sciences,2596,10087,2231,University
+890,2012,MF,Information Technology,1028,3853,764,University
+891,2012,MF,Law,374,1474,347,University
+892,2012,MF,Mass Communication,180,678,170,University
+893,2012,MF,Medicine,300,1374,252,University
+894,2012,MF,Natural & Mathematical Sciences,2244,7883,1911,University
+895,2012,MF,Services,348,1047,189,University
+896,2013,F,Accountancy,679,2274,688,University
+897,2013,F,"Architecture, Building & Real Estate",222,1123,258,University
+898,2013,F,Business & Administration,977,3406,897,University
+899,2013,F,Dentistry,31,124,27,University
+900,2013,F,Education,246,975,402,University
+901,2013,F,Engineering Sciences,1482,4893,1242,University
+902,2013,F,Fine & Applied Arts,271,864,152,University
+903,2013,F,Health Sciences,404,1054,296,University
+904,2013,F,Humanities & Social Sciences,2132,7095,1766,University
+905,2013,F,Information Technology,351,1321,251,University
+906,2013,F,Law,208,736,179,University
+907,2013,F,Mass Communication,135,529,100,University
+908,2013,F,Medicine,189,744,124,University
+909,2013,F,Natural & Mathematical Sciences,1430,4715,1257,University
+910,2013,F,Services,178,551,345,University
+911,2013,MF,Accountancy,1185,4042,1087,University
+912,2013,MF,"Architecture, Building & Real Estate",404,1883,401,University
+913,2013,MF,Business & Administration,1780,6188,1590,University
+914,2013,MF,Dentistry,54,207,48,University
+915,2013,MF,Education,314,1282,565,University
+916,2013,MF,Engineering Sciences,4733,16187,4312,University
+917,2013,MF,Fine & Applied Arts,471,1492,290,University
+918,2013,MF,Health Sciences,541,1441,391,University
+919,2013,MF,Humanities & Social Sciences,3186,10645,2584,University
+920,2013,MF,Information Technology,1086,4058,824,University
+921,2013,MF,Law,403,1491,368,University
+922,2013,MF,Mass Communication,186,702,162,University
+923,2013,MF,Medicine,354,1469,258,University
+924,2013,MF,Natural & Mathematical Sciences,2237,7855,2127,University
+925,2013,MF,Services,317,922,481,University
+926,2014,F,Accountancy,860,2456,649,University
+927,2014,F,"Architecture, Building & Real Estate",314,1213,258,University
+928,2014,F,Business & Administration,1065,3597,846,University
+929,2014,F,Dentistry,38,132,30,University
+930,2014,F,Education,233,813,388,University
+931,2014,F,Engineering Sciences,1441,5050,1174,University
+932,2014,F,Fine & Applied Arts,304,937,229,University
+933,2014,F,Health Sciences,379,1076,309,University
+934,2014,F,Humanities & Social Sciences,2107,7535,1619,University
+935,2014,F,Information Technology,343,1343,289,University
+936,2014,F,Law,170,715,176,University
+937,2014,F,Mass Communication,139,555,114,University
+938,2014,F,Medicine,182,801,127,University
+939,2014,F,Natural & Mathematical Sciences,1357,4922,1103,University
+940,2014,F,Services,69,393,219,University
+941,2014,MF,Accountancy,1515,4368,1122,University
+942,2014,MF,"Architecture, Building & Real Estate",470,1990,404,University
+943,2014,MF,Business & Administration,1902,6577,1477,University
+944,2014,MF,Dentistry,54,216,45,University
+945,2014,MF,Education,301,1065,508,University
+946,2014,MF,Engineering Sciences,4938,16606,4221,University
+947,2014,MF,Fine & Applied Arts,491,1578,394,University
+948,2014,MF,Health Sciences,544,1498,433,University
+949,2014,MF,Humanities & Social Sciences,3129,11291,2422,University
+950,2014,MF,Information Technology,1166,4152,997,University
+951,2014,MF,Law,397,1514,356,University
+952,2014,MF,Mass Communication,185,729,158,University
+953,2014,MF,Medicine,379,1585,261,University
+954,2014,MF,Natural & Mathematical Sciences,2276,8145,1889,University
+955,2014,MF,Services,123,679,354,University
+956,2015,F,Accountancy,830,2684,556,University
+957,2015,F,"Architecture, Building & Real Estate",262,1189,351,University
+958,2015,F,Business & Administration,1272,4027,848,University
+959,2015,F,Dentistry,34,134,32,University
+960,2015,F,Education,247,751,305,University
+961,2015,F,Engineering Sciences,1429,4970,1296,University
+962,2015,F,Fine & Applied Arts,244,934,233,University
+963,2015,F,Health Sciences,417,1126,353,University
+964,2015,F,Humanities & Social Sciences,2158,8054,1450,University
+965,2015,F,Information Technology,389,1492,377,University
+966,2015,F,Law,171,706,168,University
+967,2015,F,Mass Communication,181,602,130,University
+968,2015,F,Medicine,176,859,115,University
+969,2015,F,Natural & Mathematical Sciences,1288,4989,1145,University
+970,2015,F,Services,94,373,188,University
+971,2015,MF,Accountancy,1470,4723,1036,University
+972,2015,MF,"Architecture, Building & Real Estate",419,1973,539,University
+973,2015,MF,Business & Administration,2120,7138,1619,University
+974,2015,MF,Dentistry,54,219,51,University
+975,2015,MF,Education,294,955,401,University
+976,2015,MF,Engineering Sciences,4934,16677,4374,University
+977,2015,MF,Fine & Applied Arts,466,1599,420,University
+978,2015,MF,Health Sciences,569,1567,481,University
+979,2015,MF,Humanities & Social Sciences,3191,11915,2193,University
+980,2015,MF,Information Technology,1247,4541,1066,University
+981,2015,MF,Law,405,1550,355,University
+982,2015,MF,Mass Communication,221,776,172,University
+983,2015,MF,Medicine,390,1719,252,University
+984,2015,MF,Natural & Mathematical Sciences,2147,8226,1935,University
+985,2015,MF,Services,199,725,342,University
+986,2016,F,Accountancy,912,2909,664,University
+987,2016,F,"Architecture, Building & Real Estate",252,1205,274,University
+988,2016,F,Business & Administration,1237,4230,969,University
+989,2016,F,Dentistry,39,145,28,University
+990,2016,F,Education,172,577,327,University
+991,2016,F,Engineering Sciences,1333,4859,1267,University
+992,2016,F,Fine & Applied Arts,297,958,259,University
+993,2016,F,Health Sciences,593,1335,368,University
+994,2016,F,Humanities & Social Sciences,2205,8449,1760,University
+995,2016,F,Information Technology,398,1499,381,University
+996,2016,F,Law,210,740,173,University
+997,2016,F,Mass Communication,148,596,153,University
+998,2016,F,Medicine,204,912,147,University
+999,2016,F,Natural & Mathematical Sciences,1240,4967,1195,University
+1000,2016,F,Services,110,382,95,University
+1001,2016,MF,Accountancy,1521,5090,1103,University
+1002,2016,MF,"Architecture, Building & Real Estate",419,1980,459,University
+1003,2016,MF,Business & Administration,2196,7514,1720,University
+1004,2016,MF,Dentistry,54,220,53,University
+1005,2016,MF,Education,217,743,406,University
+1006,2016,MF,Engineering Sciences,4997,16975,4283,University
+1007,2016,MF,Fine & Applied Arts,458,1628,432,University
+1008,2016,MF,Health Sciences,798,1860,480,University
+1009,2016,MF,Humanities & Social Sciences,3219,12495,2563,University
+1010,2016,MF,Information Technology,1379,4810,1051,University
+1011,2016,MF,Law,399,1593,351,University
+1012,2016,MF,Mass Communication,190,774,188,University
+1013,2016,MF,Medicine,410,1845,278,University
+1014,2016,MF,Natural & Mathematical Sciences,2094,8267,1950,University
+1015,2016,MF,Services,201,737,179,University
+1016,2017,F,Accountancy,834,2963,725,University
+1017,2017,F,"Architecture, Building & Real Estate",219,1222,238,University
+1018,2017,F,Business & Administration,1405,4665,936,University
+1019,2017,F,Dentistry,30,141,33,University
+1020,2017,F,Education,150,502,206,University
+1021,2017,F,Engineering Sciences,1474,4770,1343,University
+1022,2017,F,Fine & Applied Arts,276,957,257,University
+1023,2017,F,Health Sciences,703,1611,410,University
+1024,2017,F,Humanities & Social Sciences,2068,8475,1963,University
+1025,2017,F,Information Technology,448,1599,330,University
+1026,2017,F,Law,201,741,188,University
+1027,2017,F,Mass Communication,135,599,128,University
+1028,2017,F,Medicine,194,946,156,University
+1029,2017,F,Natural & Mathematical Sciences,815,4544,1308,University
+1030,2017,F,Services,121,377,117,University
+1031,2017,MF,Accountancy,1508,5226,1278,University
+1032,2017,MF,"Architecture, Building & Real Estate",410,2015,433,University
+1033,2017,MF,Business & Administration,2393,8165,1691,University
+1034,2017,MF,Dentistry,54,217,56,University
+1035,2017,MF,Education,170,627,260,University
+1036,2017,MF,Engineering Sciences,5255,17169,4475,University
+1037,2017,MF,Fine & Applied Arts,464,1629,424,University
+1038,2017,MF,Health Sciences,962,2244,552,University
+1039,2017,MF,Humanities & Social Sciences,3173,12660,2908,University
+1040,2017,MF,Information Technology,1579,5360,977,University
+1041,2017,MF,Law,391,1588,375,University
+1042,2017,MF,Mass Communication,189,781,176,University
+1043,2017,MF,Medicine,423,1962,301,University
+1044,2017,MF,Natural & Mathematical Sciences,1495,7826,2038,University
+1045,2017,MF,Services,202,712,216,University
+1046,2018,F,Accountancy,731,2898,720,University
+1047,2018,F,"Architecture, Building & Real Estate",280,1190,343,University
+1048,2018,F,Business & Administration,1701,5277,1047,University
+1049,2018,F,Dentistry,33,135,39,University
+1050,2018,F,Education,185,449,226,University
+1051,2018,F,Engineering Sciences,1484,4909,1226,University
+1052,2018,F,Fine & Applied Arts,247,945,275,University
+1053,2018,F,Health Sciences,728,1927,385,University
+1054,2018,F,Humanities & Social Sciences,2327,8753,1975,University
+1055,2018,F,Information Technology,685,1905,373,University
+1056,2018,F,Law,226,818,165,University
+1057,2018,F,Mass Communication,146,600,142,University
+1058,2018,F,Medicine,208,966,189,University
+1059,2018,F,Natural & Mathematical Sciences,916,4136,1271,University
+1060,2018,F,Services,104,385,99,University
+1061,2018,MF,Accountancy,1421,5219,1299,University
+1062,2018,MF,"Architecture, Building & Real Estate",458,1993,517,University
+1063,2018,MF,Business & Administration,2785,9018,1884,University
+1064,2018,MF,Dentistry,60,224,53,University
+1065,2018,MF,Education,220,549,283,University
+1066,2018,MF,Engineering Sciences,5213,17656,4380,University
+1067,2018,MF,Fine & Applied Arts,410,1607,455,University
+1068,2018,MF,Health Sciences,1001,2678,535,University
+1069,2018,MF,Humanities & Social Sciences,3368,12973,2920,University
+1070,2018,MF,Information Technology,2039,6143,1244,University
+1071,2018,MF,Law,480,1708,403,University
+1072,2018,MF,Mass Communication,188,778,188,University
+1073,2018,MF,Medicine,437,2045,355,University
+1074,2018,MF,Natural & Mathematical Sciences,1739,7361,2110,University
+1075,2018,MF,Services,222,738,197,University
+1076,2019,F,Accountancy,780,2801,830,University
+1077,2019,F,"Architecture, Building & Real Estate",288,1173,310,University
+1078,2019,F,Business & Administration,1859,5894,1178,University
+1079,2019,F,Dentistry,39,141,33,University
+1080,2019,F,Education,156,500,102,University
+1081,2019,F,Engineering Sciences,1473,5106,1207,University
+1082,2019,F,Fine & Applied Arts,249,940,242,University
+1083,2019,F,Health Sciences,784,2255,430,University
+1084,2019,F,Humanities & Social Sciences,2299,8965,2052,University
+1085,2019,F,Information Technology,874,2374,383,University
+1086,2019,F,Law,215,862,155,University
+1087,2019,F,Mass Communication,144,564,175,University
+1088,2019,F,Medicine,194,978,181,University
+1089,2019,F,Natural & Mathematical Sciences,1023,3904,1196,University
+1090,2019,F,Services,102,393,82,University
+1091,2019,MF,Accountancy,1433,5128,1418,University
+1092,2019,MF,"Architecture, Building & Real Estate",492,2020,492,University
+1093,2019,MF,Business & Administration,3110,10028,2025,University
+1094,2019,MF,Dentistry,60,232,52,University
+1095,2019,MF,Education,190,606,135,University
+1096,2019,MF,Engineering Sciences,5101,18132,4439,University
+1097,2019,MF,Fine & Applied Arts,423,1577,423,University
+1098,2019,MF,Health Sciences,1045,3107,584,University
+1099,2019,MF,Humanities & Social Sciences,3311,13192,3030,University
+1100,2019,MF,Information Technology,2520,7386,1186,University
+1101,2019,MF,Law,465,1774,372,University
+1102,2019,MF,Mass Communication,168,725,216,University
+1103,2019,MF,Medicine,430,2095,375,University
+1104,2019,MF,Natural & Mathematical Sciences,1747,7039,1987,University
+1105,2019,MF,Services,218,756,177,University
+1106,2020,F,Accountancy,812,2759,812,University
+1107,2020,F,"Architecture, Building & Real Estate",304,1183,258,University
+1108,2020,F,Business & Administration,2039,6684,1209,University
+1109,2020,F,Dentistry,59,165,35,University
+1110,2020,F,Education,153,577,115,University
+1111,2020,F,Engineering Sciences,1503,5149,1246,University
+1112,2020,F,Fine & Applied Arts,251,911,272,University
+1113,2020,F,Health Sciences,761,2455,522,University
+1114,2020,F,Humanities & Social Sciences,2001,8783,2125,University
+1115,2020,F,Information Technology,846,2797,397,University
+1116,2020,F,Law,259,907,204,University
+1117,2020,F,Mass Communication,142,566,142,University
+1118,2020,F,Medicine,224,1020,178,University
+1119,2020,F,Natural & Mathematical Sciences,891,3624,1127,University
+1120,2020,F,Services,139,412,112,University
+1121,2020,MF,Accountancy,1368,4982,1411,University
+1122,2020,MF,"Architecture, Building & Real Estate",483,2023,426,University
+1123,2020,MF,Business & Administration,3378,11275,2105,University
+1124,2020,MF,Dentistry,72,253,51,University
+1125,2020,MF,Education,184,690,145,University
+1126,2020,MF,Engineering Sciences,5225,18050,4621,University
+1127,2020,MF,Fine & Applied Arts,384,1517,429,University
+1128,2020,MF,Health Sciences,1018,3347,724,University
+1129,2020,MF,Humanities & Social Sciences,2930,12892,3147,University
+1130,2020,MF,Information Technology,2863,8811,1367,University
+1131,2020,MF,Law,463,1823,394,University
+1132,2020,MF,Mass Communication,170,714,181,University
+1133,2020,MF,Medicine,477,2178,386,University
+1134,2020,MF,Natural & Mathematical Sciences,1679,6713,1928,University
+1135,2020,MF,Services,282,814,219,University
+1136,2021,F,Accountancy,757,2726,732,University
+1137,2021,F,"Architecture, Building & Real Estate",255,1171,247,University
+1138,2021,F,Business & Administration,2046,7274,1357,University
+1139,2021,F,Dentistry,65,199,33,University
+1140,2021,F,Education,152,561,160,University
+1141,2021,F,Engineering Sciences,1397,5254,1202,University
+1142,2021,F,Fine & Applied Arts,251,870,255,University
+1143,2021,F,Health Sciences,817,2642,576,University
+1144,2021,F,Humanities & Social Sciences,1789,8506,1984,University
+1145,2021,F,Information Technology,705,3027,426,University
+1146,2021,F,Law,230,909,216,University
+1147,2021,F,Mass Communication,140,574,136,University
+1148,2021,F,Medicine,227,1052,196,University
+1149,2021,F,Natural & Mathematical Sciences,1193,3912,874,University
+1150,2021,F,Services,163,451,131,University
+1151,2021,MF,Accountancy,1356,4859,1355,University
+1152,2021,MF,"Architecture, Building & Real Estate",430,1964,458,University
+1153,2021,MF,Business & Administration,3483,12228,2378,University
+1154,2021,MF,Dentistry,81,278,58,University
+1155,2021,MF,Education,196,695,184,University
+1156,2021,MF,Engineering Sciences,5116,18366,4534,University
+1157,2021,MF,Fine & Applied Arts,376,1414,429,University
+1158,2021,MF,Health Sciences,1093,3606,777,University
+1159,2021,MF,Humanities & Social Sciences,2727,12506,2998,University
+1160,2021,MF,Information Technology,2952,10219,1418,University
+1161,2021,MF,Law,485,1875,415,University
+1162,2021,MF,Mass Communication,176,708,188,University
+1163,2021,MF,Medicine,471,2251,397,University
+1164,2021,MF,Natural & Mathematical Sciences,2050,7071,1620,University
+1165,2021,MF,Services,315,905,229,University
+1166,2022,F,Accountancy,662,2740,641,University
+1167,2022,F,"Architecture, Building & Real Estate",167,721,295,University
+1168,2022,F,Business & Administration,1948,7466,1624,University
+1169,2022,F,Dentistry,54,191,34,University
+1170,2022,F,Education,141,490,161,University
+1171,2022,F,Engineering Sciences,1295,5352,1375,University
+1172,2022,F,Fine & Applied Arts,252,877,187,University
+1173,2022,F,Health Sciences,812,2638,621,University
+1174,2022,F,Humanities & Social Sciences,1578,7986,2207,University
+1175,2022,F,Information Technology,764,3195,557,University
+1176,2022,F,Law,269,1026,203,University
+1177,2022,F,Mass Communication,132,558,143,University
+1178,2022,F,Medicine,246,1212,192,University
+1179,2022,F,Natural & Mathematical Sciences,1060,3970,855,University
+1180,2022,F,Services,174,538,78,University
+1181,2022,MF,Accountancy,1172,4744,1200,University
+1182,2022,MF,"Architecture, Building & Real Estate",338,1953,495,University
+1183,2022,MF,Business & Administration,3518,12730,2738,University
+1184,2022,MF,Dentistry,80,278,60,University
+1185,2022,MF,Education,180,616,195,University
+1186,2022,MF,Engineering Sciences,4897,17985,4842,University
+1187,2022,MF,Fine & Applied Arts,373,1452,321,University
+1188,2022,MF,Health Sciences,1075,3763,851,University
+1189,2022,MF,Humanities & Social Sciences,2424,12322,3197,University
+1190,2022,MF,Information Technology,2975,10896,1786,University
+1191,2022,MF,Law,491,1899,434,University
+1192,2022,MF,Mass Communication,159,674,187,University
+1193,2022,MF,Medicine,461,2301,421,University
+1194,2022,MF,Natural & Mathematical Sciences,1892,6964,1629,University
+1195,2022,MF,Services,314,1031,171,University
+1196,2023,F,Accountancy,632,2502,753,University
+1197,2023,F,"Architecture, Building & Real Estate",185,920,283,University
+1198,2023,F,Business & Administration,1797,7272,1852,University
+1199,2023,F,Dentistry,49,230,38,University
+1200,2023,F,Education,168,525,133,University
+1201,2023,F,Engineering Sciences,1649,5519,1208,University
+1202,2023,F,Fine & Applied Arts,260,960,221,University
+1203,2023,F,Health Sciences,870,2904,718,University
+1204,2023,F,Humanities & Social Sciences,2218,9441,2608,University
+1205,2023,F,Information Technology,1034,3559,845,University
+1206,2023,F,Law,299,1041,209,University
+1207,2023,F,Mass Communication,124,534,144,University
+1208,2023,F,Medicine,216,1110,210,University
+1209,2023,F,Natural & Mathematical Sciences,559,1932,539,University
+1210,2023,F,Services,193,610,109,University
+1211,2023,MF,Accountancy,1131,4430,1286,University
+1212,2023,MF,"Architecture, Building & Real Estate",298,1610,465,University
+1213,2023,MF,Business & Administration,3033,12391,3037,University
+1214,2023,MF,Dentistry,80,319,59,University
+1215,2023,MF,Education,208,644,166,University
+1216,2023,MF,Engineering Sciences,5396,18927,4257,University
+1217,2023,MF,Fine & Applied Arts,391,1459,370,University
+1218,2023,MF,Health Sciences,1149,3911,948,University
+1219,2023,MF,Humanities & Social Sciences,3496,14884,3918,University
+1220,2023,MF,Information Technology,3701,12918,2492,University
+1221,2023,MF,Law,520,1954,447,University
+1222,2023,MF,Mass Communication,155,656,169,University
+1223,2023,MF,Medicine,431,2270,441,University
+1224,2023,MF,Natural & Mathematical Sciences,949,3419,875,University
+1225,2023,MF,Services,370,1152,232,University
+1226,2024,F,Accountancy,544,2277,712,University
+1227,2024,F,"Architecture, Building & Real Estate",173,746,279,University
+1228,2024,F,Business & Administration,1628,7139,1966,University
+1229,2024,F,Dentistry,51,234,45,University
+1230,2024,F,Education,185,600,135,University
+1231,2024,F,Engineering Sciences,1603,5609,1363,University
+1232,2024,F,Fine & Applied Arts,254,993,220,University
+1233,2024,F,Health Sciences,862,2872,844,University
+1234,2024,F,Humanities & Social Sciences,2241,9304,2344,University
+1235,2024,F,Information Technology,1141,3626,792,University
+1236,2024,F,Law,295,1095,227,University
+1237,2024,F,Mass Communication,144,537,140,University
+1238,2024,F,Medicine,291,1189,205,University
+1239,2024,F,Natural & Mathematical Sciences,513,1968,446,University
+1240,2024,F,Services,168,630,140,University
+1241,2024,MF,Accountancy,938,3995,1245,University
+1242,2024,MF,"Architecture, Building & Real Estate",264,1309,469,University
+1243,2024,MF,Business & Administration,2895,12514,3269,University
+1244,2024,MF,Dentistry,80,340,56,University
+1245,2024,MF,Education,223,746,165,University
+1246,2024,MF,Engineering Sciences,5297,19186,4779,University
+1247,2024,MF,Fine & Applied Arts,392,1500,344,University
+1248,2024,MF,Health Sciences,1148,3903,1097,University
+1249,2024,MF,Humanities & Social Sciences,3508,14734,3581,University
+1250,2024,MF,Information Technology,3958,13465,2694,University
+1251,2024,MF,Law,497,2007,423,University
+1252,2024,MF,Mass Communication,167,654,167,University
+1253,2024,MF,Medicine,499,2314,444,University
+1254,2024,MF,Natural & Mathematical Sciences,911,3485,806,University
+1255,2024,MF,Services,346,1221,264,University

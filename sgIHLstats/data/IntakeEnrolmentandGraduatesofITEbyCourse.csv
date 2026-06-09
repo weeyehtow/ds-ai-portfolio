@@ -1,0 +1,189 @@
+year,sex,course,intake,enrolment,graduates
+2009,F,Applied & Health Sciences,710,1369,593
+2009,F,Business & Services,2799,4188,2435
+2009,F,Design & Media,268,418,142
+2009,F,Electronics & Infocomm Technology,1037,1905,772
+2009,F,Engineering,500,964,369
+2009,MF,Applied & Health Sciences,1156,2172,944
+2009,MF,Business & Services,4076,6316,3429
+2009,MF,Design & Media,541,895,308
+2009,MF,Electronics & Infocomm Technology,3811,7226,2855
+2009,MF,Engineering,4121,8237,3463
+2010,F,Applied & Health Sciences,680,1336,637
+2010,F,Business & Services,2754,4138,2474
+2010,F,Design & Media,320,548,181
+2010,F,Electronics & Infocomm Technology,972,1866,830
+2010,F,Engineering,522,968,366
+2010,MF,Applied & Health Sciences,1138,2198,987
+2010,MF,Business & Services,4098,6321,3591
+2010,MF,Design & Media,611,1094,420
+2010,MF,Electronics & Infocomm Technology,3892,7285,3157
+2010,MF,Engineering,4147,7891,3179
+2011,F,Applied & Health Sciences,847,1560,591
+2011,F,Business & Services,2681,4060,2300
+2011,F,Design & Media,322,609,245
+2011,F,Electronics & Infocomm Technology,1019,1861,804
+2011,F,Engineering,615,1068,386
+2011,F,Hospitality,322,609,245
+2011,MF,Applied & Health Sciences,1293,2447,940
+2011,MF,Business & Services,4232,6462,3509
+2011,MF,Design & Media,603,1156,507
+2011,MF,Electronics & Infocomm Technology,3748,7217,3081
+2011,MF,Engineering,4222,7997,3128
+2011,MF,Hospitality,603,1156,507
+2012,F,Applied & Health Sciences,769,1553,702
+2012,F,Business & Services,2372,3623,2024
+2012,F,Design & Media,288,580,284
+2012,F,Electronics & Infocomm Technology,945,1820,793
+2012,F,Engineering,519,1023,448
+2012,F,Hospitality,251,486,174
+2012,MF,Applied & Health Sciences,1261,2469,1097
+2012,MF,Business & Services,3839,5885,3065
+2012,MF,Design & Media,604,1157,534
+2012,MF,Electronics & Infocomm Technology,3462,6810,3130
+2012,MF,Engineering,4229,8078,3352
+2012,MF,Hospitality,511,971,352
+2013,F,Applied & Health Sciences,750,1470,683
+2013,F,Business & Services,2468,3919,2183
+2013,F,Design & Media,386,633,229
+2013,F,Electronics & Infocomm Technology,941,1859,848
+2013,F,Engineering,621,1030,411
+2013,F,Hospitality,293,517,226
+2013,MF,Applied & Health Sciences,1219,2346,1058
+2013,MF,Business & Services,3916,6257,3387
+2013,MF,Design & Media,811,1291,471
+2013,MF,Electronics & Infocomm Technology,3533,6883,3085
+2013,MF,Engineering,4413,8503,3420
+2013,MF,Hospitality,540,1008,467
+2014,F,Applied & Health Sciences,701,1631,645
+2014,F,Business & Services,2547,4173,1545
+2014,F,Design & Media,462,751,318
+2014,F,Electronics & Infocomm Technology,948,1860,734
+2014,F,Engineering,633,1218,400
+2014,F,Hospitality,283,616,241
+2014,MF,Applied & Health Sciences,1154,2597,1037
+2014,MF,Business & Services,4006,6682,2469
+2014,MF,Design & Media,879,1494,639
+2014,MF,Electronics & Infocomm Technology,3506,7033,2881
+2014,MF,Engineering,4560,9064,3574
+2014,MF,Hospitality,536,1166,462
+2015,F,Applied & Health Sciences,733,1594,815
+2015,F,Business & Services,2184,5048,2223
+2015,F,Design & Media,466,798,355
+2015,F,Electronics & Infocomm Technology,891,1873,868
+2015,F,Engineering,623,1287,554
+2015,F,Hospitality,307,667,325
+2015,MF,Applied & Health Sciences,1173,2523,1274
+2015,MF,Business & Services,3633,8010,3528
+2015,MF,Design & Media,933,1565,705
+2015,MF,Electronics & Infocomm Technology,3383,6927,3266
+2015,MF,Engineering,4486,9045,3966
+2015,MF,Hospitality,565,1225,612
+2016,F,Applied & Health Sciences,740,1427,632
+2016,F,Business & Services,2591,4594,2334
+2016,F,Design & Media,479,921,373
+2016,F,Electronics & Infocomm Technology,859,1638,764
+2016,F,Engineering,647,1164,469
+2016,F,Hospitality,319,602,291
+2016,MF,Applied & Health Sciences,1234,2322,988
+2016,MF,Business & Services,4152,7411,3654
+2016,MF,Design & Media,965,1851,735
+2016,MF,Electronics & Infocomm Technology,3318,6324,2858
+2016,MF,Engineering,4488,8483,3753
+2016,MF,Hospitality,606,1128,528
+2017,F,Applied & Health Sciences,850,1558,643
+2017,F,Business & Services,2680,4836,2172
+2017,F,Design & Media,486,921,440
+2017,F,Electronics & Infocomm Technology,925,1692,746
+2017,F,Engineering,676,1228,530
+2017,F,Hospitality,298,569,277
+2017,MF,Applied & Health Sciences,1342,2537,1059
+2017,MF,Business & Services,4344,7797,3496
+2017,MF,Design & Media,967,1862,889
+2017,MF,Electronics & Infocomm Technology,3570,6531,3100
+2017,MF,Engineering,4685,8643,3805
+2017,MF,Hospitality,598,1138,509
+2018,F,Applied & Health Sciences,806,1602,737
+2018,F,Business & Services,2507,4732,2221
+2018,F,Design & Media,481,912,420
+2018,F,Electronics & Infocomm Technology,850,1632,832
+2018,F,Engineering,628,1198,559
+2018,F,Hospitality,357,631,257
+2018,MF,Applied & Health Sciences,1259,2503,1163
+2018,MF,Business & Services,4125,7762,3608
+2018,MF,Design & Media,927,1815,876
+2018,MF,Electronics & Infocomm Technology,3321,6432,3241
+2018,MF,Engineering,4524,8639,3992
+2018,MF,Hospitality,663,1216,541
+2019,F,Applied & Health Sciences,822,1565,701
+2019,F,Business & Services,2575,4623,2285
+2019,F,Design & Media,590,1024,405
+2019,F,Electronics & Infocomm Technology,837,1564,714
+2019,F,Engineering,714,1225,502
+2019,F,Hospitality,370,657,323
+2019,MF,Applied & Health Sciences,1305,2458,1039
+2019,MF,Business & Services,4138,7545,3631
+2019,MF,Design & Media,1051,1902,804
+2019,MF,Electronics & Infocomm Technology,3380,6265,2821
+2019,MF,Engineering,4585,8552,3731
+2019,MF,Hospitality,688,1246,569
+2020,F,Applied & Health Sciences,855,1603,700
+2020,F,Business & Services,2401,4544,2266
+2020,F,Design & Media,532,1080,471
+2020,F,Electronics & Infocomm Technology,820,1543,710
+2020,F,Engineering,716,1305,552
+2020,F,Hospitality,392,695,328
+2020,MF,Applied & Health Sciences,1296,2500,1127
+2020,MF,Business & Services,3831,7295,3659
+2020,MF,Design & Media,1010,1991,850
+2020,MF,Electronics & Infocomm Technology,3309,6245,2948
+2020,MF,Engineering,4502,8500,3953
+2020,MF,Hospitality,713,1294,607
+2021,F,Applied & Health Sciences,878,1683,722
+2021,F,Business & Services,2445,4536,2237
+2021,F,Design & Media,604,1112,501
+2021,F,Electronics & Infocomm Technology,848,1543,724
+2021,F,Engineering,734,1368,633
+2021,F,Hospitality,396,715,356
+2021,MF,Applied & Health Sciences,1335,2549,1105
+2021,MF,Business & Services,3903,7260,3519
+2021,MF,Design & Media,1009,1966,912
+2021,MF,Electronics & Infocomm Technology,3313,6235,3022
+2021,MF,Engineering,4464,8550,4023
+2021,MF,Hospitality,714,1302,643
+2022,F,Applied & Health Sciences,934,1770,789
+2022,F,Business & Services,2316,4376,2183
+2022,F,Design & Media,586,1152,529
+2022,F,Electronics & Infocomm Technology,768,1510,742
+2022,F,Engineering,828,1472,593
+2022,F,Hospitality,382,696,370
+2022,MF,Applied & Health Sciences,1341,2605,1185
+2022,MF,Business & Services,3804,7118,3522
+2022,MF,Design & Media,1016,1962,927
+2022,MF,Electronics & Infocomm Technology,3438,6333,2995
+2022,MF,Engineering,4321,8300,4050
+2022,MF,Hospitality,657,1252,653
+2023,F,Applied & Health Sciences,878,1718,787
+2023,F,Business & Services,2208,4168,1912
+2023,F,Design & Media,591,1142,534
+2023,F,Electronics & Infocomm Technology,816,1510,416
+2023,F,Engineering,855,1563,699
+2023,F,Hospitality,381,676,332
+2023,MF,Applied & Health Sciences,1293,2501,1131
+2023,MF,Business & Services,3664,6944,2970
+2023,MF,Design & Media,1007,1957,901
+2023,MF,Electronics & Infocomm Technology,3500,6628,1677
+2023,MF,Engineering,4269,8050,3768
+2023,MF,Hospitality,672,1194,602
+2024,F,Applied & Health Sciences,545,1046,484
+2024,F,Business & Services,1988,4082,1935
+2024,F,Design & Media,607,1160,524
+2024,F,Electronics & Infocomm Technology,650,1635,692
+2024,F,Engineering,1419,2457,998
+2024,F,Hospitality,380,697,337
+2024,MF,Applied & Health Sciences,731,1409,657
+2024,MF,Business & Services,3417,7072,3241
+2024,MF,Design & Media,996,1934,903
+2024,MF,Electronics & Infocomm Technology,2795,7317,3114
+2024,MF,Engineering,4880,9147,4198
+2024,MF,Hospitality,654,1217,573
