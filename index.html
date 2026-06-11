@@ -1,22 +1,257 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Porfolio Parking lot</title>
-<style>
-body {
-font-family: Arial, sans-serif;
-text-align: center;
-background-color: #f0f8ff;
-padding: 50px;
-}
-h1 { color: #333; }
-p  { color: #666; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page Template</title>
+    <style>
+        /* Base Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: #f9fafb;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Navigation Styles */
+        header {
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+
+        .nav-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #1a365d;
+            text-decoration: none;
+        }
+
+        .nav-menu {
+            display: flex;
+            list-style: none;
+        }
+
+        /* Dropdown Logic */
+        .dropdown {
+            position: relative;
+            margin-left: 2rem;
+        }
+
+        .dropdown-trigger {
+            text-decoration: none;
+            color: #4a5568;
+            font-weight: 500;
+            padding: 0.5rem 0;
+            display: flex;
+            align-items: center;
+            transition: color 0.2s;
+        }
+
+        .dropdown-trigger:hover {
+            color: #2b6cb0;
+        }
+
+        /* The downward arrow indicator */
+        .dropdown-trigger::after {
+            content: '';
+            display: inline-block;
+            margin-left: 0.35rem;
+            vertical-align: middle;
+            border-top: 4px solid;
+            border-right: 4px solid transparent;
+            border-left: 4px solid transparent;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: #ffffff;
+            min-width: 180px;
+            box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+            border-radius: 0.375rem;
+            padding: 0.5rem 0;
+            margin-top: 0.5rem;
+        }
+
+        .dropdown-content a {
+            color: #4a5568;
+            padding: 0.5rem 1.25rem;
+            text-decoration: none;
+            display: block;
+            font-size: 0.95rem;
+            transition: background-color 0.2s, color 0.2s;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #ebf8ff;
+            color: #2b6cb0;
+        }
+
+        /* Show the dropdown menu on hover */
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        /* Hero Section Styles */
+        .hero-section {
+            margin-top: 70px; /* Prevents navigation from overlapping content */
+            padding: 5rem 2rem;
+            background-color: #ffffff;
+        }
+
+        .hero-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 3rem;
+            align-items: center;
+        }
+
+        @media (max-width: 768px) {
+            .hero-container {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            .nav-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            .dropdown {
+                margin: 0 1rem;
+            }
+        }
+
+        .hero-text h1 {
+            font-size: 3rem;
+            color: #1a365d;
+            line-height: 1.2;
+            margin-bottom: 1.5rem;
+        }
+
+        .hero-text p {
+            font-size: 1.125rem;
+            color: #4a5568;
+            margin-bottom: 2rem;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            background-color: #3182ce;
+            color: #ffffff;
+            padding: 0.75rem 1.75rem;
+            border-radius: 0.375rem;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.2s;
+        }
+
+        .cta-btn:hover {
+            background-color: #2b6cb0;
+        }
+
+        /* Hero Image Placeholder */
+        .hero-image-placeholder {
+            width: 100%;
+            height: 400px;
+            background-color: #e2e8f0;
+            border: 2px dashed #cbd5e0;
+            border-radius: 0.5rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #718096;
+            font-weight: 500;
+        }
+
+        .hero-image-placeholder svg {
+            width: 48px;
+            height: 48px;
+            margin-bottom: 1rem;
+            stroke: #a0aec0;
+        }
+    </style>
 </head>
 <body>
-<h1>Introduction</h1>
-<p>[Insert some text]</p>
+
+    <!-- Top Navigation Menu -->
+    <header>
+        <nav class="nav-container">
+            <a href="#" class="logo">PlatformLogo</a>
+            <ul class="nav-menu">
+                <!-- Education Dropdown -->
+                <li class="dropdown">
+                    <a href="#" class="dropdown-trigger">Education</a>
+                    <div class="dropdown-content">
+                        <a href="#">K-12 Programs</a>
+                        <a href="#">Higher Ed</a>
+                        <a href="#">Online Learning</a>
+                    </div>
+                </li>
+                <!-- Health Dropdown -->
+                <li class="dropdown">
+                    <a href="#" class="dropdown-trigger">Health</a>
+                    <div class="dropdown-content">
+                        <a href="#">Public Health</a>
+                        <a href="#">Primary Care</a>
+                        <a href="#">Mental Health</a>
+                    </div>
+                </li>
+                <!-- Social Policy Dropdown -->
+                <li class="dropdown">
+                    <a href="#" class="dropdown-trigger">Social Policy</a>
+                    <div class="dropdown-content">
+                        <a href="#">Housing Initiatives</a>
+                        <a href="#">Economic Support</a>
+                        <a href="#">Community Action</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section Area -->
+    <section class="hero-section">
+        <div class="hero-container">
+            <div class="hero-text">
+                <h1>Shaping Tomorrow's Infrastructure</h1>
+                <p>Explore comprehensive strategies and resources built around modern education systems, community health initiatives, and progressive social policy frameworks.</p>
+                <a href="#" class="cta-btn">Get Started</a>
+            </div>
+            
+            <!-- Hero Image Placeholder component -->
+            <div class="hero-image-placeholder">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15.75l5.159-5.159a2.25 2.25 0 013.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 013.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 001.5-1.5V6a1.5 1.5 0 00-1.5-1.5H3.75A1.5 1.5 0 002.25 6v12a1.5 1.5 0 001.5 1.5zm10.5-11.25h.008v.008h-.008V8.25zm.375 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
+                </svg>
+                <span>Hero Image Placeholder</span>
+                <span style="font-size: 0.85rem; color: #a0aec0; margin-top: 0.25rem;">(Replace with your &lt;img&gt; tag)</span>
+            </div>
+        </div>
+    </section>
+
 </body>
 </html>
