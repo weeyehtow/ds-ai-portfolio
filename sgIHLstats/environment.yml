@@ -9,3 +9,4 @@ dependencies:
 -pip:
 - streamlit
 - plotly
+- pygal=3.0.5
